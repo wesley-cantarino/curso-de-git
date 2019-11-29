@@ -1,2 +1,4 @@
 curso de git :)
 git é muito bom
+
+O segredo é :qa! para sair do arquivo!!!!!!!!!!!!!!!!! 
